@@ -1,6 +1,10 @@
 # Too Much of a Good Thing
 
-
+## Data ##
+- Regression analysis: estim.dta
+- Cost-benefit analysis: ecdf.dta, par.dta
+- Variables from the proprietary TraitTrak data can be generated using do-file 1_dataprep_TraitTrak.do, provided that the same data is purchased.
+  
 ## Main manuscript ##
 - Table 1: do-file 2_estim.do
 - Fig. 1-2: do-file 3_descriptives.do
@@ -18,7 +22,5 @@
 - Table S16: do-file 8_policy_infinite_mix.do
 - Table S17: do-file 9_policy_infinite_size.do
 
-## Construct variables from TraitTrak data ##
-- do-file 1_dataprep_TraitTrak.do
 
 
